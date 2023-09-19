@@ -1,0 +1,25 @@
+{
+  "name": "sample-react",
+  "version": "1.0.0",
+  "description": "This is the initial prototype React application made from scratch.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpabballa/sample-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Mahesh Pabballa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpabballa/sample-react/issues"
+  },
+  "homepage": "https://github.com/mpabballa/sample-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}

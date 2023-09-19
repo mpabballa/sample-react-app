@@ -1,2 +1,11 @@
-# sample-react-app
-This is the initial prototype React application made from scratch.
+echo "# sample-react" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mpabballa/sample-react.git
+git push -u origin main
+
+git remote add origin https://github.com/mpabballa/sample-react.git
+git branch -M main
+git push -u origin main
